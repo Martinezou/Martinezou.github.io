@@ -99,7 +99,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/Image.jpeg
+# Use an absolute URL so the browser can resolve it reliably on GitHub Pages.
+avatar: https://martinezou.github.io/assets/img/Image.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
