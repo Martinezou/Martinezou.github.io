@@ -7,5 +7,4 @@ tags:
   - Delay embedding theorem
 ---
 
-# Takens's embedding theorem
-This is the first blog.
+## Reconstruct dynamic system from data

@@ -7,5 +7,4 @@ tags:
   - Neural ODE
 ---
 
-# Latent ODE
-This is the first blog.
+## From neural network to dynamics
