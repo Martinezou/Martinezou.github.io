@@ -3,7 +3,6 @@ title: Latent ODE
 date: 2026-07-26
 categories:
   - AI
-  - Dynamics
 tags:
   - Neural ODE
 ---
