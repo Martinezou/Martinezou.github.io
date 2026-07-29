@@ -1,0 +1,8 @@
+/* Override the sidebar avatar shape */
+#sidebar .avatar, .avatar, .profile-wrapper img {
+  border-radius: 0 !important;
+}
+
+#sidebar .avatar, .avatar {
+  object-fit: cover;
+}

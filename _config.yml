@@ -164,6 +164,10 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Custom styles loaded after the theme styles.
+custom_css:
+  - /assets/css/custom.css
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
