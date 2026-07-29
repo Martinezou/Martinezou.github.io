@@ -2,6 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/Martinezou"
 
 - type: email
   icon: "fas fa-envelope"
