@@ -9,7 +9,7 @@
   url: "mailto:mengbangzou@outlook.com"
   noblank: true # open link in current tab
 
-- type: custom
+- type: email
   icon: "fas fa-envelope"
   url: "mailto:m.zou@cranfield.ac.uk"
   noblank: true # open link in current tab
