@@ -1,17 +1,14 @@
 #  The contact options.
 
 - type: github
-#  icon: "fab fa-github"
-
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
+  icon: "fab fa-github"
 
 - type: email
   icon: "fas fa-envelope"
   url: "mailto:mengbangzou@outlook.com"
   noblank: true # open link in current tab
 
-- type: email
+- type: custom
   icon: "fas fa-envelope"
   url: "mailto:m.zou@cranfield.ac.uk"
   noblank: true # open link in current tab
